@@ -25,3 +25,5 @@ Based on the analysis, we recommend the following actions:
 1. Focus on expanding and promoting Rye bread as well as pastries.
 2. Invest in marketing and promotions during peak sales seasons to maximize revenue.
 
+### Dashboard
+![image](https://github.com/jieying0805/sales-performance-analysis/assets/157407542/72a00c98-3dad-49aa-81f3-eacda8a66a2f)
