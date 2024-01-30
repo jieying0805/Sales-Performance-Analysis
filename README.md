@@ -28,4 +28,5 @@ Based on the analysis, we recommend the following actions:
 4. Expand the choice of pastries by bringing in new variations
 
 ### Dashboard
-![image](https://github.com/jieying0805/sales-performance-analysis/assets/157407542/72a00c98-3dad-49aa-81f3-eacda8a66a2f)
+![image](https://github.com/jieying0805/sales-performance-analysis/assets/157407542/25737160-7d83-4893-935b-d7fca44a389a)
+
