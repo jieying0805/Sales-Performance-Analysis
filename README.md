@@ -1,5 +1,5 @@
 ### Project Overview
-This data analysis project aims to provide insights into the sales performance of an bakery company for 2022. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of a bakery company for 2022. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
@@ -28,5 +28,6 @@ Based on the analysis, we recommend the following actions:
 4. Expand the choice of pastries by bringing in new variations
 
 ### Dashboard
-![image](https://github.com/jieying0805/sales-performance-analysis/assets/157407542/25737160-7d83-4893-935b-d7fca44a389a)
+![image](https://github.com/jieying0805/sales-performance-analysis/assets/157407542/51e10bd3-0df8-432d-9097-c2512c8bd87c)
+
 
